@@ -1,6 +1,6 @@
 function assessTree() {
     const height = document.getElementById("treeHeight").value;
-    const circumference = document.getElementById("trunkCircumferenence").value
+    const circumference = document.getElementById("trunkCircumference").value
     const wind = document.getElementById("windSpeed").value
 
     document.getElementById("result").innerText = 
